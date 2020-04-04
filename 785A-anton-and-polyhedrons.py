@@ -1,5 +1,6 @@
 # Name: 785 A. Anton and Polyhedrons
 # URL: https://codeforces.com/problemset/problem/785/A
+# Language: Python 3.x
 
 def main():
     # Variable fuer Summe der Flächen

@@ -1,5 +1,6 @@
 # Name: 705 A. Hulk
 # URL: https://codeforces.com/problemset/problem/705/A
+# Language: Python 3.x
 
 def main():
     # Einlesen des Inputs als Integer Wert

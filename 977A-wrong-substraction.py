@@ -1,5 +1,6 @@
 # Name: 977 A. Wrong Subtraction
 # URL: https://codeforces.com/problemset/problem/977/A
+# Language: Python 3.x
 
 def main():
 	# Einlesen der zwei Zahlen n und k
