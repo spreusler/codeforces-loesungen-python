@@ -1,2 +1,2 @@
-# codeforces-loesungen
-Lösungen für Aufgaben von codeforces.com
+# Codeforces.com Lösungen
+Lösungen für Aufgaben von codeforces.com mit deutschen Kommentaren
